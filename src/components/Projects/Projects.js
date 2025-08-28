@@ -2,7 +2,7 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-import design from "../../Assets/Projects/design.png";
+import design from "../../Assets/Projects/design.jpg";
 import certificate from "../../Assets/Projects/certificate.png";
 import tripform from "../../Assets/Projects/TripForm.jpg";
 import tripit from "../../Assets/Projects/trip_it.png";
